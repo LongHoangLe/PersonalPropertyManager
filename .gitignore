@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+publish/
+*.user
+
+# Rider / VS
+.idea/
+.vs/
+
+# Generated DB
+*.db
+*.db-shm
+*.db-wal
+
+# Local image attachments
+Resources/Images/*.png
+Resources/Images/*.jpg
+Resources/Images/*.jpeg
+Resources/Images/*.bmp
+Resources/Images/*.gif
+Resources/Images/*.webp
